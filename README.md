@@ -1,1 +1,1 @@
-All I have to share right now is the code and some slides. I will upload a preprint of the paper as soon as possible.
+All I have to share right now is the code and [some presentation slides](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_presentation05.pdf). I will upload a preprint of the paper when it is ready.
