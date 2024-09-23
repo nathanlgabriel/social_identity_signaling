@@ -1,4 +1,4 @@
-All I have to share right now is the code and [some presentation slides](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_presentation05.pdf). I will upload an early draft of the paper when it is ready.
+All I have to share right now is the code and [some presentation slides](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_presentation05.pdf) and [a very rough and very early draft](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_draft_030.pdf).
 
 
 
