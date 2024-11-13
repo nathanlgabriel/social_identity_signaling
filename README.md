@@ -1,4 +1,4 @@
-This model was developed with Paul Smaldino.
+This model was developed with Paul E. Smaldino.
 
 I have [a very early and very rough draft](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_draft_045.pdf) and an accompanying supplemental (which is split into [partA](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/supplemental_partA_11-13-2024.pdf) and [partB](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/supplemental_partB_11-13-2024.pdf) for file size reasons).
 
