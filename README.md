@@ -1,6 +1,6 @@
 This model was developed with Paul E. Smaldino.
 
-Here is [an early rough draft](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_draft_045.pdf) and an accompanying supplemental (which is split into [partA](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/supplemental_partA_11-13-2024.pdf) and [partB](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/supplemental_partB_11-13-2024.pdf) for file size reasons).
+Here is [an early rough draft](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/gid03_draft_048.pdf) and an accompanying supplemental (which is split into [partA](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/supplemental_partA_11-13-2024.pdf) and [partB](https://github.com/nathanlgabriel/social_identity_signaling/blob/main/supplemental_partB_11-13-2024.pdf) for file size reasons).
 
 
 
