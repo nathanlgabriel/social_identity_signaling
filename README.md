@@ -10,13 +10,4 @@ Here is some sample code [here](https://github.com/nathanlgabriel/social_identit
 
 
 
-[These jupyter notebooks](https://github.com/nathanlgabriel/social_identity_signaling/tree/main/code/partial_information_decomposition) contain code for calculating the synergistic information for the model in Section 4.1 with β = 0. 
-Specifically, this is the synergistic information between signals in the first dimension, X1, the second dimension, X2,  
-and the greeting that Kishus give in response to those singals, Y. The calculation of synergistic information is done using the formulation
-given by [Varley and Kaminski (2022) "Untangling Synergistic Effects of Intersecting Social Identities with Partial Information Decomposition"](https://doi.org/10.3390/e24101387),
-using Williams and Beer's I_min definition of redundant information.
-One notebook contains the calculation for the equilibrium in which Kishus give the Kish greeting among themselves. approximately 0.659
-The other contains calculations for the equilibrium in which Kishus give the Umma greeting among themselves. apporximately 0.382
-Therefore, we see that our understanding of intersectionality coheres with Varley and Kaminski's since the synergistic information in the 
-equilibrium we associate with intersectional identities is nearly double the synergistic information in the equilibrium which we associate with 
-Kishus merely being members of both groups.
+[These jupyter notebooks](https://github.com/nathanlgabriel/social_identity_signaling/tree/main/code/partial_information_decomposition) contain code for calculating the synergistic information for the model expoloring intersectionality, Section 4.1, with β = 0. Specifically, this is the synergistic information between signals in the first dimension, X1, the second dimension, X2,  and the greeting that Kishus give in response to those singals, Y. The calculation of synergistic information is done using the formulation given by [Varley and Kaminski (2022) "Untangling Synergistic Effects of Intersecting Social Identities with Partial Information Decomposition"](https://doi.org/10.3390/e24101387), using Williams and Beer's I_min definition of redundant information. One notebook contains the calculation for the equilibrium in which Kishus give the Kish greeting among themselves (approximately 0.659). The other contains calculations for the equilibrium in which Kishus give the Umma greeting among themselves (apporximately 0.382). Therefore, we see that our understanding of intersectionality coheres with Varley and Kaminski's since the synergistic information in the equilibrium we associate with intersectional identities is nearly double the synergistic information in the equilibrium which we associate with Kishus merely being members of both groups.
